@@ -12,7 +12,7 @@ basic geoprocessing, and using the print composer.
 	Oslo Bydeler
 	Bus, tram stops 
 
-	Find them on http://maptimeosl.github.io/qgis-101/dataosl/dataosl.zip"
+	Find them on http://maptimeosl.github.io/qgis-101/data/dataosl.zip"
 
 	Unzip to access datasets.
 
